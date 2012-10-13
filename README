@@ -1,0 +1,5 @@
+My very simplified version of .emacs files.
+
+This .emacs file is bases on emacs version 24.2 on Linux.
+
+As the goal is to make it as simple as possible from the begining, this dot file is seperated from the .emacs file or .emacs.d/init.el file. Copy over it to apply.
